@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="milib:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/milib_jar</output-path>
+    <root id="archive" name="milib.jar">
+      <element id="module-output" name="milib" />
+      <element id="archive" name="milib.jar" />
+    </root>
+  </artifact>
+</component>
